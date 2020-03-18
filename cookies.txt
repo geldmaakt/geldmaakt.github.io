@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+robeco.nl	TRUE	/	FALSE	1999999999	AKA_A2	A
+.conversationalsdevelopment.nl	TRUE	/	FALSE	1999999999	__cfduid	d5e5158474986196c322151b79bf1143e1572444588
+www.robeco.nl	TRUE	/	FALSE	1999999999	rnl_ip	true
+
